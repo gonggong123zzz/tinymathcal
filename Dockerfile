@@ -1,1 +1,1 @@
-   FROM python:3.9-slim
+FROM registry.cn-hangzhou.aliyuncs.com/aliyunpython/python:3.9
